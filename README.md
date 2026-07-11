@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohit-ksahu/dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit-ksahu/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohit-ksahu/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/mohit-ksahu/dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mohit-ksahu/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohit-ksahu/dsa/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohit-ksahu/dsa/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/mohit-ksahu/dsa/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
