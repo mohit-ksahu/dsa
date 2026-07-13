@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-ksahu/dsa/tree/master/0560-subarray-sum-equals-k) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/mohit-ksahu/dsa/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
