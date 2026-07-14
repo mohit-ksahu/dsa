@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mohit-ksahu/dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit-ksahu/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/mohit-ksahu/dsa/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/mohit-ksahu/dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohit-ksahu/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/mohit-ksahu/dsa/tree/master/0162-find-peak-element) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohit-ksahu/dsa/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/mohit-ksahu/dsa/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-ksahu/dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohit-ksahu/dsa/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0073-set-matrix-zeroes) |
 ## Prefix Sum
 |  |
 | ------- |
