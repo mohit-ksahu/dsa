@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohit-ksahu/dsa/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/mohit-ksahu/dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit-ksahu/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/mohit-ksahu/dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/mohit-ksahu/dsa/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/mohit-ksahu/dsa/tree/master/0118-pascals-triangle) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/mohit-ksahu/dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit-ksahu/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/mohit-ksahu/dsa/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/mohit-ksahu/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0283-move-zeroes) |
 ## Math
