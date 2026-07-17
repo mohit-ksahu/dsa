@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mohit-ksahu/dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit-ksahu/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mohit-ksahu/dsa/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mohit-ksahu/dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/mohit-ksahu/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mohit-ksahu/dsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0073-set-matrix-zeroes) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mohit-ksahu/dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit-ksahu/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mohit-ksahu/dsa/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mohit-ksahu/dsa/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/mohit-ksahu/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0283-move-zeroes) |
 ## Math
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mohit-ksahu/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mohit-ksahu/dsa/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/mohit-ksahu/dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohit-ksahu/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -80,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/mohit-ksahu/dsa/tree/master/1291-sequential-digits) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mohit-ksahu/dsa/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mohit-ksahu/dsa/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
