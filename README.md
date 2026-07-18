@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohit-ksahu/dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/mohit-ksahu/dsa/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit-ksahu/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohit-ksahu/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mohit-ksahu/dsa/tree/master/0485-max-consecutive-ones) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohit-ksahu/dsa/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/mohit-ksahu/dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohit-ksahu/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/mohit-ksahu/dsa/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/mohit-ksahu/dsa/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/mohit-ksahu/dsa/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/mohit-ksahu/dsa/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohit-ksahu/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/mohit-ksahu/dsa/tree/master/1095-find-in-mountain-array) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/mohit-ksahu/dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-ksahu/dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Enumeration
 |  |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/mohit-ksahu/dsa/tree/master/1095-find-in-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/mohit-ksahu/dsa/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
