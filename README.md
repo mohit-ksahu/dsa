@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mohit-ksahu/dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mohit-ksahu/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohit-ksahu/dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mohit-ksahu/dsa/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-ksahu/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/mohit-ksahu/dsa/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mohit-ksahu/dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohit-ksahu/dsa/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/mohit-ksahu/dsa/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-ksahu/dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/mohit-ksahu/dsa/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/mohit-ksahu/dsa/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -68,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/mohit-ksahu/dsa/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/mohit-ksahu/dsa/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohit-ksahu/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
@@ -91,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohit-ksahu/dsa/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
