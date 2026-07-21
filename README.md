@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohit-ksahu/dsa/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/mohit-ksahu/dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohit-ksahu/dsa/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/mohit-ksahu/dsa/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
