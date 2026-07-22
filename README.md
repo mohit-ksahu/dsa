@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/mohit-ksahu/dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohit-ksahu/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/mohit-ksahu/dsa/tree/master/1095-find-in-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/mohit-ksahu/dsa/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/mohit-ksahu/dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohit-ksahu/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/mohit-ksahu/dsa/tree/master/1095-find-in-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/mohit-ksahu/dsa/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
 |  |
 | ------- |
