@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit-ksahu/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mohit-ksahu/dsa/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mohit-ksahu/dsa/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/mohit-ksahu/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mohit-ksahu/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0283-move-zeroes) |
 ## Math
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/mohit-ksahu/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mohit-ksahu/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mohit-ksahu/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
