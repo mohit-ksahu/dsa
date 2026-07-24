@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohit-ksahu/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/mohit-ksahu/dsa/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/mohit-ksahu/dsa/tree/master/1539-kth-missing-positive-number) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/mohit-ksahu/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohit-ksahu/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/mohit-ksahu/dsa/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/mohit-ksahu/dsa/tree/master/1539-kth-missing-positive-number) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/mohit-ksahu/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Matrix
 |  |
 | ------- |
