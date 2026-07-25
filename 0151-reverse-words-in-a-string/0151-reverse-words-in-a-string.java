@@ -22,7 +22,8 @@ class Solution {
                 result.append(' ');
             }
 
-            result.append(s.substring(i + 1, j + 1));
+            String word = s.substring(i + 1, j + 1);
+            result.append(word);
         }
         return result.toString();
     }
