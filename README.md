@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohit-ksahu/dsa/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/mohit-ksahu/dsa/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/mohit-ksahu/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mohit-ksahu/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mohit-ksahu/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
