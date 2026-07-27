@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mohit-ksahu/dsa/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/mohit-ksahu/dsa/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/mohit-ksahu/dsa/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/mohit-ksahu/dsa/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/mohit-ksahu/dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mohit-ksahu/dsa/tree/master/0189-rotate-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mohit-ksahu/dsa/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/mohit-ksahu/dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/mohit-ksahu/dsa/tree/master/0645-set-mismatch) |
