@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohit-ksahu/dsa/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/mohit-ksahu/dsa/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/mohit-ksahu/dsa/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/mohit-ksahu/dsa/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/mohit-ksahu/dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mohit-ksahu/dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohit-ksahu/dsa/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mohit-ksahu/dsa/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
