@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mohit-ksahu/dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mohit-ksahu/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohit-ksahu/dsa/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mohit-ksahu/dsa/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohit-ksahu/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mohit-ksahu/dsa/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/mohit-ksahu/dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mohit-ksahu/dsa/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mohit-ksahu/dsa/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mohit-ksahu/dsa/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/mohit-ksahu/dsa/tree/master/1291-sequential-digits) |
 ## Stack
 |  |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mohit-ksahu/dsa/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohit-ksahu/dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
