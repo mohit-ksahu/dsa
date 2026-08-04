@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohit-ksahu/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/mohit-ksahu/dsa/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/mohit-ksahu/dsa/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/mohit-ksahu/dsa/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohit-ksahu/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mohit-ksahu/dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohit-ksahu/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohit-ksahu/dsa/tree/master/0042-trapping-rain-water) |
+| [0735-asteroid-collision](https://github.com/mohit-ksahu/dsa/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/mohit-ksahu/dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohit-ksahu/dsa/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/mohit-ksahu/dsa/tree/master/0735-asteroid-collision) |
 ## Recursion
 |  |
 | ------- |
