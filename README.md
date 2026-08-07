@@ -154,11 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohit-ksahu/dsa/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/mohit-ksahu/dsa/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/mohit-ksahu/dsa/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/mohit-ksahu/dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohit-ksahu/dsa/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/mohit-ksahu/dsa/tree/master/0901-online-stock-span) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mohit-ksahu/dsa/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/mohit-ksahu/dsa/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/mohit-ksahu/dsa/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
