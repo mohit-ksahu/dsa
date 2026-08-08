@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohit-ksahu/dsa/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mohit-ksahu/dsa/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/mohit-ksahu/dsa/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/mohit-ksahu/dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit-ksahu/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohit-ksahu/dsa/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/mohit-ksahu/dsa/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/mohit-ksahu/dsa/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/mohit-ksahu/dsa/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/mohit-ksahu/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/mohit-ksahu/dsa/tree/master/0520-detect-capital) |
 | [1021-remove-outermost-parentheses](https://github.com/mohit-ksahu/dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/mohit-ksahu/dsa/tree/master/0901-online-stock-span) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/mohit-ksahu/dsa/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
