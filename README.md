@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mohit-ksahu/dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mohit-ksahu/dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohit-ksahu/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/mohit-ksahu/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mohit-ksahu/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohit-ksahu/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mohit-ksahu/dsa/tree/master/0189-rotate-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/mohit-ksahu/dsa/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/mohit-ksahu/dsa/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/mohit-ksahu/dsa/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/mohit-ksahu/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mohit-ksahu/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohit-ksahu/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/mohit-ksahu/dsa/tree/master/0520-detect-capital) |
