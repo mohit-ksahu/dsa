@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mohit-ksahu/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/mohit-ksahu/dsa/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/mohit-ksahu/dsa/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/mohit-ksahu/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohit-ksahu/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit-ksahu/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mohit-ksahu/dsa/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/mohit-ksahu/dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mohit-ksahu/dsa/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/mohit-ksahu/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohit-ksahu/dsa/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit-ksahu/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/mohit-ksahu/dsa/tree/master/0645-set-mismatch) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mohit-ksahu/dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/mohit-ksahu/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mohit-ksahu/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/mohit-ksahu/dsa/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohit-ksahu/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/mohit-ksahu/dsa/tree/master/0520-detect-capital) |
 | [1021-remove-outermost-parentheses](https://github.com/mohit-ksahu/dsa/tree/master/1021-remove-outermost-parentheses) |
