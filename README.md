@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mohit-ksahu/dsa/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohit-ksahu/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mohit-ksahu/dsa/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/mohit-ksahu/dsa/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohit-ksahu/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/mohit-ksahu/dsa/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohit-ksahu/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohit-ksahu/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-ksahu/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/mohit-ksahu/dsa/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/mohit-ksahu/dsa/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mohit-ksahu/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
@@ -235,5 +237,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/mohit-ksahu/dsa/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohit-ksahu/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/mohit-ksahu/dsa/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohit-ksahu/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
