@@ -239,4 +239,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohit-ksahu/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/mohit-ksahu/dsa/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohit-ksahu/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohit-ksahu/dsa/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohit-ksahu/dsa/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohit-ksahu/dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
