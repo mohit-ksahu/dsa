@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohit-ksahu/dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohit-ksahu/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/mohit-ksahu/dsa/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/mohit-ksahu/dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit-ksahu/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mohit-ksahu/dsa/tree/master/0031-next-permutation) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohit-ksahu/dsa/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/mohit-ksahu/dsa/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/mohit-ksahu/dsa/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/mohit-ksahu/dsa/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/mohit-ksahu/dsa/tree/master/0076-minimum-window-substring) |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mohit-ksahu/dsa/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mohit-ksahu/dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
